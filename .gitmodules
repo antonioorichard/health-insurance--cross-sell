@@ -1,0 +1,3 @@
+[submodule "health_insurance_cross_sell_app"]
+	path = health_insurance_cross_sell_app
+	url = https://github.com/antonioorichard/health_insurance_app_render
