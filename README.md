@@ -1,18 +1,17 @@
 # Venda Cruzada de Seguro de Automóveis (Health Insurance Cross-Sell)
 
-![Logo do Projeto](Concepts-to-know-before-buying-Car-Insurance-Online.png)
+![Health Insurance Cross-Sell](Concepts-to-know-before-buying-Car-Insurance-Online.png)
 
 
-Este é um projeto que os dados se encontram no Kaggle
-di. A empresa, o contexto e as perguntas de negócios não são reais. Este portfólio está seguindo as recomendações do blog da Comunidade DS.
+Este é um projeto que os dados se encontram no [Kaggle](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction)
+Este portfólio está seguindo as recomendações do curso Ciência de Dados da Comunidade DS.
 
-O notebook com todos os passos realizados está disponivel aqui. O google sheets com os produtos de dados em produção pode ser acessado clicando aqui. Ao enviar uma mensagem para o BOT, a resposta pode haver uma lentidão para aparecer, pois, o Render depois de um tempo sem uso desliga a aplicação. O dataset está disponivel no Kaggle.
+O notebook com todos os passos realizados está disponivel [aqui](https://github.com/antonioorichard/health-insurance--cross-sell/blob/main/notebooks/PA4_END.ipynb). O google sheets com os produtos de dados em produção pode ser acessado clicando aqui[https://docs.google.com/spreadsheets/d/1or_372MebG0tmsrva8uBBHRsfpgAK7IqcIkXhy16Klw/edit?gid=0#gid=0]. Ao enviar uma mensagem para o BOT, a resposta pode haver uma lentidão para aparecer, pois, o Render depois de um tempo sem uso desliga a aplicação.
 
-Este projeto foi feito por Douglas Saturnino.
+### Este projeto foi feito por *Antonio Richard*.
 
 ## This project aims to order a potential client list by propensity score
 
-#### This project was made by {cookiecutter.author}}.
 
 # 1. Business Problem.
 
