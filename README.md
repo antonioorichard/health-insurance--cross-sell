@@ -1,4 +1,9 @@
-# Health Insurance Cross-Sell
+# Venda Cruzada de Seguro de Automóveis (Health Insurance Cross-Sell)
+Este é um projeto di. A empresa, o contexto e as perguntas de negócios não são reais. Este portfólio está seguindo as recomendações do blog da Comunidade DS.
+
+O notebook com todos os passos realizados está disponivel aqui. O google sheets com os produtos de dados em produção pode ser acessado clicando aqui. Ao enviar uma mensagem para o BOT, a resposta pode haver uma lentidão para aparecer, pois, o Render depois de um tempo sem uso desliga a aplicação. O dataset está disponivel no Kaggle.
+
+Este projeto foi feito por Douglas Saturnino.
 
 ## This project aims to order a potential client list by propensity score
 
