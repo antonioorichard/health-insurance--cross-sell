@@ -1,6 +1,6 @@
 # Venda Cruzada de Seguro de Automóveis (Health Insurance Cross-Sell)
 
-<img = "Concepts-to-know-before-buying-Car-Insurance-Online.png" title = "Venda Cruzada de Seguro de Automóveis 
+<img = "https://www.how2shout.com/wp-content/uploads/2021/12/Concepts-to-know-before-buying-Car-Insurance-Online.png" title = "Venda Cruzada de Seguro de Automóveis 
 light = "center", height ="400" class = "center"/>
 Este é um projeto que os dados se encontram no Kaggle
 di. A empresa, o contexto e as perguntas de negócios não são reais. Este portfólio está seguindo as recomendações do blog da Comunidade DS.
