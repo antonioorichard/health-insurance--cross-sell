@@ -1,5 +1,9 @@
 # Venda Cruzada de Seguro de Automóveis (Health Insurance Cross-Sell)
-Este é um projeto di. A empresa, o contexto e as perguntas de negócios não são reais. Este portfólio está seguindo as recomendações do blog da Comunidade DS.
+
+<img = "Concepts-to-know-before-buying-Car-Insurance-Online.png" title = "Venda Cruzada de Seguro de Automóveis 
+light = "center", height ="400" class = "center"/>
+Este é um projeto que os dados se encontram no Kaggle
+di. A empresa, o contexto e as perguntas de negócios não são reais. Este portfólio está seguindo as recomendações do blog da Comunidade DS.
 
 O notebook com todos os passos realizados está disponivel aqui. O google sheets com os produtos de dados em produção pode ser acessado clicando aqui. Ao enviar uma mensagem para o BOT, a resposta pode haver uma lentidão para aparecer, pois, o Render depois de um tempo sem uso desliga a aplicação. O dataset está disponivel no Kaggle.
 
