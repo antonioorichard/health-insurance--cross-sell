@@ -147,7 +147,7 @@ Pois como pode ser observado na tabela (01):
 
 ![tabela (01)](Pictures/H1_tabela_insurance_before.jpg)
 
-Clientes que não contrataram seguro antes vão querer muito mais que aqueles que já tinha seguro, e ainda pelo (gráfico 01)[gráfico (01)]
+Clientes que não contrataram seguro antes vão querer muito mais que aqueles que já tinha seguro, e ainda pelo (gráfico 01)![gráfico (01)]
 
 
 ![gráfico (01)](Pictures/H1_grafico_para_1.jpg)
