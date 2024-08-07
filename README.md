@@ -145,34 +145,37 @@ Clientes que possuem carro novo de até 2 anos e já tiveram seguro vão querer 
 
 Pois como pode ser observado na tabela (01):
 
+#### **Tabela 01**
 ![tabela (01)](Pictures/H1_tabela_insurance_before.jpg)
 
-Clientes que não contrataram seguro antes vão querer muito mais que aqueles que já tinha seguro, e ainda pelo (gráfico 01)[Pictures/H1_grafico_para_1.jpg]
+Clientes que não contrataram seguro antes vão querer muito mais que aqueles que já tinha seguro, e ainda pelo (gráfico 01).
 
-
+#### **Gráfico 01**
 ![gráfico (01)](Pictures/H1_grafico_para_1.jpg)
 
-observa não só isso, mas também que os donos dos carros com idade entre 1 a 2 anos são os que mais demostraram interessados.
+Observa não só isso, mas também que os donos dos carros com idade entre 1 a 2 anos são os que mais demostraram interessados.
 
 
 
 
 **Hypothesis 02:**
 
-Clientes com carros mais novos ou com idade menor do que um ano, contratam mais seguro
+Clientes com carros mais novos ou com idade menor do que um ano, contratam mais seguro.
+
 **FALSE**
 
 Observando a imagem do gráfico 01 e 02:
 
 
-
+#### **Gráfico 02**
 ![gráfico (02)](Pictures/H2_gráfico_02.jpg)
 
 Os clientes com carro de 1 até 2 anos são que mais contratam mais!
 
 **Hypothesis 03:**
 
-Clientes que tem entre 40 anos e 50 anos com carro de idade até 2 ano, são que mais contratar o seguro
+Clientes que tem entre 40 anos e 50 anos com carro de idade até 2 ano, são que mais contratar o seguro.
+
 **True**
 
 Principalmente com carros de 1 até 2
@@ -187,8 +190,11 @@ Insight de negócio: Buscar dados de acionamento de seguro por clientes com faix
 Mulheres contratam mais seguro do que homens
 
 **False**
+
+#### **Gráfico 03**
 ![gráfico (03)](Pictures/H4_gráfico_01.jpg)
 
+#### **Gráfico 04**
 ![gráfico (04)](Pictures/H4_gráfico_02.jpg)
 
 Geralmente homens contratam mais o seguro do que as mulheres!
@@ -198,9 +204,13 @@ Geralmente homens contratam mais o seguro do que as mulheres!
 **Hypothesis 05:**
 
 Clientes que estão a mais tempo conosco e já sofreram acidentes são o que mais vão querer contratar.
+
 **False**
+
+#### **Gráfico 05**
 ![gráfico (05)](Pictures/H5_gráfico_01.jpg)
 
+#### **Gráfico 06**
 ![gráfico (06)](Pictures/H5_gráfico_02.jpg)
 o que mais contrataram foram 6 a 8 meses como cliente. Entretanto, quem já sofreu algum acidente são os que mais contrataram o seguro
 
@@ -216,6 +226,7 @@ o que mais contrataram foram 6 a 8 meses como cliente. Entretanto, quem já sofr
 
 ## 2. Qual a porcentagem de clientes interessados em adquirir um seguro de automóvel, o time de vendas conseguirá contatar fazendo 20.000 ligações?
 
+#### **Gráfico 07**
 ![gráfico (07)](Pictures/ceo_question_01_20k.jpg)
 
 Com 20.000 ligações o time de vendas terá ligado para cerca de 17,49% da base de clientes, podendo contatar aproximadamente 50% dos clientes que estão interessados em um seguro de automóveis.
@@ -224,6 +235,7 @@ Com 20.000 ligações o time de vendas terá ligado para cerca de 17,49% da base
 
 ## 3. E se a capacidade do time de vendas aumentar para 40.000 ligações, qual a porcentagem de clientes interessados em adquirir um seguro de automóvel o time de vendas conseguirá contatar?
 
+#### **Gráfico 08**
 ![gráfico (08)](Pictures/ceo_question_02_40k.jpg)
 
 Com 40.000 ligações o time de vendas terá ligado para 34,98% da base de clientes e dessa teria 
