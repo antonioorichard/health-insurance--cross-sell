@@ -142,9 +142,14 @@ Agora será mostrado o relatório com as análises e responder as perguntas de n
 Clientes que possuem carro novo de até 2 anos e já tiveram seguro vão querer fazer seguro com a gente, mais do que aqueles que não tiveram ainda.
 
 **False**
-Pois como pode ser observado na tabela (01)[Pictures/H1_tabela_insurance_before.jpg]
+Pois como pode ser observado na tabela (01) ![tabela (01)](Pictures/H1_tabela_insurance_before.jpg)
 
-Clientes que não contrataram seguro antes vão querer muito mais que aqueles que já tinha seguro, e ainda pelo (gráfico 01)[H1_tabela_insurance_before.jpg] observa não só isso, mas também que os donos dos carros com idade entre 1 a 2 anos são os que mais demostraram interessados.
+Clientes que não contrataram seguro antes vão querer muito mais que aqueles que já tinha seguro, e ainda pelo (gráfico 01)
+
+
+![gráfico (01)](Pictures/H1_grafico_para_1.jpg)
+
+observa não só isso, mas também que os donos dos carros com idade entre 1 a 2 anos são os que mais demostraram interessados.
 
 
 
@@ -154,7 +159,13 @@ Clientes que não contrataram seguro antes vão querer muito mais que aqueles qu
 Clientes com carros mais novos ou com idade menor do que um ano, contratam mais seguro
 **FALSE**
 
-Observando a imagem do gráfico 01 e 02, os clientes com carro do 1 até 2 anos são que mais contratam mais!
+Observando a imagem do gráfico 01 e 02:
+
+
+
+![gráfico (02)](Pictures/H2_gráfico_02.jpg)
+
+Os clientes com carro de 1 até 2 anos são que mais contratam mais!
 
 **Hypothesis 03:**
 
@@ -173,6 +184,9 @@ Insight de negócio: Buscar dados de acionamento de seguro por clientes com faix
 Mulheres contratam mais seguro do que homens
 
 **False**
+![gráfico (03)](Pictures/H4_gráfico_01.jpg)
+
+![gráfico (04)](Pictures/H4_gráfico_02.jpg)
 
 Geralmente homens contratam mais o seguro do que as mulheres!
 
@@ -182,7 +196,9 @@ Geralmente homens contratam mais o seguro do que as mulheres!
 
 Clientes que estão a mais tempo conosco e já sofreram acidentes são o que mais vão querer contratar.
 **False**
+![gráfico (05)](Pictures/H5_gráfico_01.jpg)
 
+![gráfico (06)](Pictures/H5_gráfico_02.jpg)
 o que mais contrataram foram 6 a 8 meses como cliente. Entretanto, quem já sofreu algum acidente são os que mais contrataram o seguro
 
 
@@ -197,18 +213,20 @@ o que mais contrataram foram 6 a 8 meses como cliente. Entretanto, quem já sofr
 
 ## 2. Qual a porcentagem de clientes interessados em adquirir um seguro de automóvel, o time de vendas conseguirá contatar fazendo 20.000 ligações?
 
+![gráfico (07)](Pictures/ceo_question_01_20k.jpg)
+
 Com 20.000 ligações o time de vendas terá ligado para cerca de 17,49% da base de clientes, podendo contatar aproximadamente 50% dos clientes que estão interessados em um seguro de automóveis.
 
-<img src="https://user-images.githubusercontent.com/95532957/204142099-56a08fdf-8883-44be-9ea9-8425b5a4e7a1.png" title="gains and lift curve" lign="center" height="400" class="center"/>
 
 
 ## 3. E se a capacidade do time de vendas aumentar para 40.000 ligações, qual a porcentagem de clientes interessados em adquirir um seguro de automóvel o time de vendas conseguirá contatar?
 
+![gráfico (08)](Pictures/ceo_question_02_40k.jpg)
+
 Com 40.000 ligações o time de vendas terá ligado para 34,98% da base de clientes e dessa teria 
 encontrado cerca de 80% dos clientes que estão interessados em um seguro de automóveis.
 
-<img src="https://user-images.githubusercontent.com/95532957/204142129-5e4b368c-00b0-41ab-be6d-d80f4bac2470.png" title="gains and lift curve" 
-lign="center" height="400" class="center"/>
+
 
 
 ## 4. Quantas ligações o time de vendas precisa fazer para contatar 80% dos clientes interessados em adquirir um seguro de automóvel?
@@ -227,8 +245,7 @@ De acordo com os critérios definidos, foi feita uma lista de clientes com o mai
 
 Abaixo mostra como usar o google sheets para fazer a previsão de clientes.
 
-<img src="https://user-images.githubusercontent.com/95532957/204161999-a38a8305-51b6-4a53-b4e8-e8dd2d38efc0.gif" title="Exemplo de uso" 
-lign="center" height="400" class="center"/>
+
 
 # 8. Próximos passos
 
