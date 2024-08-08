@@ -260,6 +260,7 @@ De acordo com os critérios definidos, foi feita uma lista de clientes com o mai
 
 Abaixo mostra como usar o google sheets para fazer a previsão de clientes.
 
+[screen-recorder-thu-aug-08-2024-16-32-48.webm](https://github.com/user-attachments/assets/400b8ba8-82e1-47c9-b135-b9b4a34d4c55)
 
 
 # 8. Próximos passos
